@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <title>Research Framework</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+    <h1>Research Framework</h1>
+    <p>Execute demos ou Monte Carlo diretamente pelo navegador.</p>
+
+    <form action="/run_demo" method="post">
+        <button type="submit">▶️ Rodar Demo</button>
+    </form>
+
+    <h2>Monte Carlo</h2>
+    <form action="/run_mc" method="post">
+        <label>Número de Rodadas:</label>
+        <input type="number" name="n_rounds" value="500">
+        <label>Número de Simulações:</label>
+        <input type="number" name="n_sims" value="500">
+        <button type="submit">▶️ Rodar MC</button>
+    </form>
+
+    <p style="margin-top:20px; color:green;">{{ message }}</p>
+</body>
+</html>
