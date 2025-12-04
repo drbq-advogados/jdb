@@ -6,23 +6,35 @@ on:
   workflow_dispatch:
 
 jobs:
-  deploy:
+  build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
       
       - name: Setup Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.11'
       
-      - name: Generate landing data
+      - name: Install dependencies
         run: |
           pip install -q pandas numpy scipy
+      
+      - name: Generate landing data
+        run: |
           python generate_landing_data.py
       
-      - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./web
+      - name: Commit and push to gh-pages
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git checkout --orphan gh-pages
+          git rm -rf .
+          cp -r web/* .
+          git add .
+          git commit -m "Deploy landing page" || echo "Nothing to commit"
+          git push -f origin gh-pages
