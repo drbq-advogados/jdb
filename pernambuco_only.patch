@@ -1,0 +1,44 @@
+*** Begin Patch
+*** Update File: app.py
+@@
+-SOURCES = [
+-    {
+-        "key": "resultadofacil",
+-        "name": "ResultadoFácil (PE)",
+-        "url": "https://www.resultadofacil.com.br/resultado-do-jogo-do-bicho/PE",
+-        "selectors": ["table tbody tr", ".resultado-table tr", ".entry-content tr"]
+-    },
+-    {
+-        "key": "resultadosnahora",
+-        "name": "ResultadosNaHora (PE)",
+-        "url": "https://www.resultadosnahora.com.br/pernambuco-pe/",
+-        "selectors": ["table tbody tr", ".resultados tr", ".entry-content tr"]
+-    },
+-    {
+-        "key": "pernambucoaval",
+-        "name": "pernambucoaval (vitaldata)",
+-        "url": "https://pernambucoaval.vitaldata.com.br/",
+-        "selectors": ["table tbody tr", ".resultados tr", ".entry-content tr"]
+-    },
+-    {
+-        "key": "lotep",
+-        "name": "lotep",
+-        "url": "https://lotep.net/",
+-        "selectors": ["table tbody tr", ".resultados tr", ".entry-content tr"]
+-    },
+-    {
+-        "key": "portalbrasil",
+-        "name": "portalbrasil",
+-        "url": "https://portalbrasil.net/jogodobicho/",
+-        "selectors": ["table tbody tr", ".resultados tr", ".entry-content tr"]
+-    }
+-]
++SOURCES = [
++    {
++        "key": "pernambucoaval",
++        "name": "pernambucoaval (vitaldata)",
++        "url": "https://pernambucoaval.vitaldata.com.br/",
++        "selectors": ["table tbody tr", ".resultados tr", ".entry-content tr"]
++    }
++]
+*** End Patch
