@@ -1,4 +1,4 @@
-name: Build and Publish Landing (Pages artifact)
+name: Build and Publish Landing
 
 on:
   push:
@@ -6,9 +6,8 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: read
+  contents: write
   pages: write
-  id-token: write
 
 jobs:
   build-and-publish:
@@ -16,6 +15,8 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -30,18 +31,35 @@ jobs:
       - name: Generate landing data
         run: python generate_landing_data.py
 
-      - name: Upload Pages artifact
-        uses: actions/upload-pages-artifact@v1
-        with:
-          path: ./web
-
-  deploy:
-    needs: build-and-publish
-    runs-on: ubuntu-latest
-    permissions:
-      pages: write
-      id-token: write
-    steps:
-      - name: Deploy to GitHub Pages
-        uses: actions/deploy-pages@v1
+      - name: Publish to gh-pages
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          set -e
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          # try to create or switch to gh-pages
+          if git show-ref --verify --quiet refs/heads/gh-pages; then
+            git checkout gh-pages
+          else
+            git checkout --orphan gh-pages
+          fi
+          # copy site files to a temporary folder to avoid deleting them
+          rm -rf out || true
+          mkdir -p out
+          cp -R web/* out/ || true
+          # remove all files from index/worktree
+          git rm -rf . || true
+          # move generated site into repo root
+          cp -R out/* . || true
+          # ensure .nojekyll exists to prevent Jekyll processing
+          touch .nojekyll
+          git add -A
+          # commit only if there are changes
+          if git diff --cached --quiet; then
+            echo "No changes to publish"
+          else
+            git commit -m "Publish landing page from main"
+            git push -f origin gh-pages
+          fi
 
