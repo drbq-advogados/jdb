@@ -1,0 +1,28 @@
+JDB PROJECT - TEST RESULTS
+Date: 2025-12-03T16:14:13.889375
+Status: PRONTO
+Passed: 19/21
+Warnings: 2/21
+Failed: 0/21
+
+✅ PASS - Dep: streamlit
+✅ PASS - Dep: pandas
+✅ PASS - Dep: numpy
+✅ PASS - Dep: requests
+✅ PASS - Dep: bs4
+✅ PASS - Dep: scipy
+✅ PASS - Dep: altair
+✅ PASS - Dep: dotenv
+⚠️  WARN - Dep: statsmodels
+⚠️  WARN - Dep: pymc
+✅ PASS - File: app.py
+✅ PASS - File: cache_results.json
+✅ PASS - File: analise_probabilidades_operacional.ipynb
+✅ PASS - File: requirements.txt
+✅ PASS - File: .venv
+✅ PASS - Cache
+✅ PASS - Syntax: app.py
+✅ PASS - Syntax: main.py
+✅ PASS - Syntax: research_framework_starter.py
+✅ PASS - Notebook
+✅ PASS - Configuration
