@@ -1,40 +1,61 @@
-name: Deploy Landing Page
+name: Build and Publish Landing
 
 on:
   push:
     branches: [main]
   workflow_dispatch:
 
+permissions:
+  contents: write
+  pages: write
+
 jobs:
-  build:
+  build-and-publish:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout
+        uses: actions/checkout@v4
         with:
           fetch-depth: 0
-      
-      - name: Setup Python
+
+      - name: Set up Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.11'
-      
+
       - name: Install dependencies
         run: |
-          pip install -q pandas numpy scipy
-      
+          python -m pip install --upgrade pip
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; else pip install pandas numpy scipy; fi
+
       - name: Generate landing data
+        run: python generate_landing_data.py
+
+      - name: Publish to gh-pages
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          python generate_landing_data.py
-      
-      - name: Commit and push to gh-pages
-        run: |
-          git config user.name "GitHub Actions"
-          git config user.email "actions@github.com"
-          git checkout --orphan gh-pages
-          git rm -rf .
-          cp -r web/* .
-          git add .
-          git commit -m "Deploy landing page" || echo "Nothing to commit"
-          git push -f origin gh-pages
+          set -e
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          # try to create or switch to gh-pages
+          if git show-ref --verify --quiet refs/heads/gh-pages; then
+            git checkout gh-pages
+          else
+            git checkout --orphan gh-pages
+          fi
+          # remove all files from index/worktree
+          git rm -rf . || true
+          # copy site files to repo root
+          cp -R web/* .
+          # ensure .nojekyll exists to prevent Jekyll processing
+          touch .nojekyll
+          git add -A
+          # commit only if there are changes
+          if git diff --cached --quiet; then
+            echo "No changes to publish"
+          else
+            git commit -m "Publish landing page from main"
+            git push -f origin gh-pages
+          fi
+
