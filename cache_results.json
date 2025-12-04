@@ -1,0 +1,3376 @@
+{
+  "fetched_at": "2025-12-03T18:26:04.483847",
+  "payload": {
+    "fetched_at": "2025-12-03T18:26:04.483847",
+    "sources_raw": [
+      {
+        "source": "pernambucoaval",
+        "url": "https://pernambucoaval.vitaldata.com.br/",
+        "milhares": [
+          "2025",
+          "4746",
+          "0171",
+          "6838",
+          "5501",
+          "7227",
+          "4065",
+          "7185",
+          "4730",
+          "6181",
+          "6644",
+          "5145",
+          "3670",
+          "3705",
+          "1735",
+          "7632",
+          "5331",
+          "1677",
+          "4703",
+          "5055",
+          "8653",
+          "5902",
+          "4518",
+          "7443",
+          "6904",
+          "6050",
+          "5476",
+          "9549",
+          "0140",
+          "2834",
+          "8816",
+          "8460",
+          "3895",
+          "3938",
+          "4462",
+          "4760",
+          "8334",
+          "4894",
+          "6936",
+          "0582",
+          "6261",
+          "6681",
+          "9266",
+          "7509",
+          "6304",
+          "0342",
+          "6976",
+          "6253",
+          "8600",
+          "1694",
+          "3625",
+          "7529",
+          "3258",
+          "6198",
+          "8037",
+          "9319",
+          "7368",
+          "5210",
+          "2593",
+          "9887",
+          "9399",
+          "6021",
+          "8530",
+          "7695",
+          "6917",
+          "7306",
+          "6876",
+          "0569",
+          "2391",
+          "1057",
+          "7362",
+          "7010",
+          "9280",
+          "5921",
+          "6696",
+          "7495",
+          "0729",
+          "1482",
+          "0601",
+          "3960",
+          "0168",
+          "8675",
+          "0906",
+          "7990",
+          "4742",
+          "0807",
+          "1699",
+          "6709",
+          "8560",
+          "0256",
+          "6859",
+          "6765",
+          "6477",
+          "4236",
+          "1423",
+          "6664",
+          "8742",
+          "5673",
+          "9576",
+          "6415",
+          "8941",
+          "0566",
+          "2759",
+          "4560",
+          "2796",
+          "8024",
+          "9575",
+          "4656",
+          "1690",
+          "3567",
+          "6707",
+          "8684",
+          "5645",
+          "4152",
+          "7311",
+          "6854",
+          "7661",
+          "0845",
+          "7452",
+          "5311",
+          "2870",
+          "8581",
+          "6971",
+          "5699",
+          "4271",
+          "2865",
+          "8596",
+          "7879",
+          "0119",
+          "7851",
+          "5882",
+          "2488",
+          "0837",
+          "3094",
+          "8958",
+          "5203",
+          "8480",
+          "8839",
+          "2874",
+          "6655",
+          "8361",
+          "0735",
+          "8575",
+          "9969",
+          "0594",
+          "8089",
+          "3759",
+          "6376",
+          "1559",
+          "8017",
+          "8824",
+          "1700",
+          "7852",
+          "9103",
+          "0919",
+          "8179",
+          "8781",
+          "2050",
+          "4023",
+          "1431",
+          "1411",
+          "9622",
+          "3487",
+          "7238",
+          "0580",
+          "1937",
+          "4642",
+          "1283",
+          "1278",
+          "1478",
+          "4240",
+          "1371",
+          "6375",
+          "6496",
+          "5616",
+          "4166",
+          "2334",
+          "4779",
+          "0156",
+          "5533",
+          "8399",
+          "8185",
+          "9507",
+          "3363",
+          "3609",
+          "8893",
+          "3153",
+          "9806",
+          "9573",
+          "4488",
+          "8260",
+          "4789",
+          "0540",
+          "6720",
+          "8894",
+          "8406",
+          "2757",
+          "6842",
+          "0900",
+          "8108",
+          "8069",
+          "7221",
+          "8131",
+          "0035",
+          "7421",
+          "8780",
+          "0210",
+          "6233",
+          "9115",
+          "5215",
+          "3983",
+          "2950",
+          "7948",
+          "0617",
+          "3427",
+          "9799",
+          "8454",
+          "3208",
+          "5128",
+          "9461",
+          "7607",
+          "4597",
+          "8295",
+          "6534",
+          "9748",
+          "4652",
+          "6099",
+          "1775",
+          "8768",
+          "4692",
+          "1605",
+          "3980",
+          "9042",
+          "5265",
+          "4139",
+          "6690",
+          "9084",
+          "2502",
+          "6999",
+          "5648",
+          "2394",
+          "8223",
+          "7440",
+          "5604",
+          "5287",
+          "6324",
+          "4924",
+          "8430",
+          "4274",
+          "3662",
+          "8356",
+          "6015",
+          "6341",
+          "2952",
+          "3866",
+          "6303",
+          "6514",
+          "2651",
+          "6660",
+          "7162",
+          "0868",
+          "9398",
+          "3037",
+          "7059",
+          "1863",
+          "6609",
+          "2848",
+          "4448",
+          "1135",
+          "4342",
+          "9976",
+          "1289",
+          "8247",
+          "1491",
+          "1392",
+          "3478",
+          "5269",
+          "6619",
+          "8588",
+          "6325",
+          "4168",
+          "0722",
+          "0326",
+          "8640",
+          "5317",
+          "8262",
+          "8582",
+          "0930",
+          "1494",
+          "5341",
+          "3568",
+          "0306",
+          "9570",
+          "1530",
+          "4353",
+          "9460",
+          "4186",
+          "9808",
+          "3262",
+          "6034",
+          "8848",
+          "1130",
+          "8923",
+          "3681",
+          "2081",
+          "6343",
+          "2480",
+          "2782",
+          "3296",
+          "9430",
+          "2724",
+          "5315",
+          "8234",
+          "3925",
+          "2473",
+          "9321",
+          "6045",
+          "0763",
+          "9331",
+          "3529",
+          "1751",
+          "7401",
+          "9631",
+          "3357",
+          "3725",
+          "1691",
+          "6792",
+          "1534",
+          "7510",
+          "7371",
+          "8077",
+          "8421",
+          "1778",
+          "5530",
+          "3177",
+          "4017",
+          "7415",
+          "8198",
+          "6237",
+          "8250",
+          "7682",
+          "0333",
+          "8687",
+          "1226",
+          "9358",
+          "8702",
+          "8673"
+        ]
+      }
+    ],
+    "unified_milhars": [
+      "2025",
+      "4746",
+      "0171",
+      "6838",
+      "5501",
+      "7227",
+      "4065",
+      "7185",
+      "4730",
+      "6181",
+      "6644",
+      "5145",
+      "3670",
+      "3705",
+      "1735",
+      "7632",
+      "5331",
+      "1677",
+      "4703",
+      "5055",
+      "8653",
+      "5902",
+      "4518",
+      "7443",
+      "6904",
+      "6050",
+      "5476",
+      "9549",
+      "0140",
+      "2834",
+      "8816",
+      "8460",
+      "3895",
+      "3938",
+      "4462",
+      "4760",
+      "8334",
+      "4894",
+      "6936",
+      "0582",
+      "6261",
+      "6681",
+      "9266",
+      "7509",
+      "6304",
+      "0342",
+      "6976",
+      "6253",
+      "8600",
+      "1694",
+      "3625",
+      "7529",
+      "3258",
+      "6198",
+      "8037",
+      "9319",
+      "7368",
+      "5210",
+      "2593",
+      "9887",
+      "9399",
+      "6021",
+      "8530",
+      "7695",
+      "6917",
+      "7306",
+      "6876",
+      "0569",
+      "2391",
+      "1057",
+      "7362",
+      "7010",
+      "9280",
+      "5921",
+      "6696",
+      "7495",
+      "0729",
+      "1482",
+      "0601",
+      "3960",
+      "0168",
+      "8675",
+      "0906",
+      "7990",
+      "4742",
+      "0807",
+      "1699",
+      "6709",
+      "8560",
+      "0256",
+      "6859",
+      "6765",
+      "6477",
+      "4236",
+      "1423",
+      "6664",
+      "8742",
+      "5673",
+      "9576",
+      "6415",
+      "8941",
+      "0566",
+      "2759",
+      "4560",
+      "2796",
+      "8024",
+      "9575",
+      "4656",
+      "1690",
+      "3567",
+      "6707",
+      "8684",
+      "5645",
+      "4152",
+      "7311",
+      "6854",
+      "7661",
+      "0845",
+      "7452",
+      "5311",
+      "2870",
+      "8581",
+      "6971",
+      "5699",
+      "4271",
+      "2865",
+      "8596",
+      "7879",
+      "0119",
+      "7851",
+      "5882",
+      "2488",
+      "0837",
+      "3094",
+      "8958",
+      "5203",
+      "8480",
+      "8839",
+      "2874",
+      "6655",
+      "8361",
+      "0735",
+      "8575",
+      "9969",
+      "0594",
+      "8089",
+      "3759",
+      "6376",
+      "1559",
+      "8017",
+      "8824",
+      "1700",
+      "7852",
+      "9103",
+      "0919",
+      "8179",
+      "8781",
+      "2050",
+      "4023",
+      "1431",
+      "1411",
+      "9622",
+      "3487",
+      "7238",
+      "0580",
+      "1937",
+      "4642",
+      "1283",
+      "1278",
+      "1478",
+      "4240",
+      "1371",
+      "6375",
+      "6496",
+      "5616",
+      "4166",
+      "2334",
+      "4779",
+      "0156",
+      "5533",
+      "8399",
+      "8185",
+      "9507",
+      "3363",
+      "3609",
+      "8893",
+      "3153",
+      "9806",
+      "9573",
+      "4488",
+      "8260",
+      "4789",
+      "0540",
+      "6720",
+      "8894",
+      "8406",
+      "2757",
+      "6842",
+      "0900",
+      "8108",
+      "8069",
+      "7221",
+      "8131",
+      "0035",
+      "7421",
+      "8780",
+      "0210",
+      "6233",
+      "9115",
+      "5215",
+      "3983",
+      "2950",
+      "7948",
+      "0617",
+      "3427",
+      "9799",
+      "8454",
+      "3208",
+      "5128",
+      "9461",
+      "7607",
+      "4597",
+      "8295",
+      "6534",
+      "9748",
+      "4652",
+      "6099",
+      "1775",
+      "8768",
+      "4692",
+      "1605",
+      "3980",
+      "9042",
+      "5265",
+      "4139",
+      "6690",
+      "9084",
+      "2502",
+      "6999",
+      "5648",
+      "2394",
+      "8223",
+      "7440",
+      "5604",
+      "5287",
+      "6324",
+      "4924",
+      "8430",
+      "4274",
+      "3662",
+      "8356",
+      "6015",
+      "6341",
+      "2952",
+      "3866",
+      "6303",
+      "6514",
+      "2651",
+      "6660",
+      "7162",
+      "0868",
+      "9398",
+      "3037",
+      "7059",
+      "1863",
+      "6609",
+      "2848",
+      "4448",
+      "1135",
+      "4342",
+      "9976",
+      "1289",
+      "8247",
+      "1491",
+      "1392",
+      "3478",
+      "5269",
+      "6619",
+      "8588",
+      "6325",
+      "4168",
+      "0722",
+      "0326",
+      "8640",
+      "5317",
+      "8262",
+      "8582",
+      "0930",
+      "1494",
+      "5341",
+      "3568",
+      "0306",
+      "9570",
+      "1530",
+      "4353",
+      "9460",
+      "4186",
+      "9808",
+      "3262",
+      "6034",
+      "8848",
+      "1130",
+      "8923",
+      "3681",
+      "2081",
+      "6343",
+      "2480",
+      "2782",
+      "3296",
+      "9430",
+      "2724",
+      "5315",
+      "8234",
+      "3925",
+      "2473",
+      "9321",
+      "6045",
+      "0763",
+      "9331",
+      "3529",
+      "1751",
+      "7401",
+      "9631",
+      "3357",
+      "3725",
+      "1691",
+      "6792",
+      "1534",
+      "7510",
+      "7371",
+      "8077",
+      "8421",
+      "1778",
+      "5530",
+      "3177",
+      "4017",
+      "7415",
+      "8198",
+      "6237",
+      "8250",
+      "7682",
+      "0333",
+      "8687",
+      "1226",
+      "9358",
+      "8702",
+      "8673"
+    ],
+    "table": [
+      {
+        "idx": 1,
+        "milhar": "2025",
+        "dezena": 25,
+        "grupo": 7,
+        "animal": "Carneiro"
+      },
+      {
+        "idx": 2,
+        "milhar": "4746",
+        "dezena": 46,
+        "grupo": 12,
+        "animal": "Elefante"
+      },
+      {
+        "idx": 3,
+        "milhar": "0171",
+        "dezena": 71,
+        "grupo": 18,
+        "animal": "Porco"
+      },
+      {
+        "idx": 4,
+        "milhar": "6838",
+        "dezena": 38,
+        "grupo": 10,
+        "animal": "Coelho"
+      },
+      {
+        "idx": 5,
+        "milhar": "5501",
+        "dezena": 1,
+        "grupo": 1,
+        "animal": "Avestruz"
+      },
+      {
+        "idx": 6,
+        "milhar": "7227",
+        "dezena": 27,
+        "grupo": 7,
+        "animal": "Carneiro"
+      },
+      {
+        "idx": 7,
+        "milhar": "4065",
+        "dezena": 65,
+        "grupo": 17,
+        "animal": "Macaco"
+      },
+      {
+        "idx": 8,
+        "milhar": "7185",
+        "dezena": 85,
+        "grupo": 22,
+        "animal": "Tigre"
+      },
+      {
+        "idx": 9,
+        "milhar": "4730",
+        "dezena": 30,
+        "grupo": 8,
+        "animal": "Camelo"
+      },
+      {
+        "idx": 10,
+        "milhar": "6181",
+        "dezena": 81,
+        "grupo": 21,
+        "animal": "Touro"
+      },
+      {
+        "idx": 11,
+        "milhar": "6644",
+        "dezena": 44,
+        "grupo": 11,
+        "animal": "Cavalo"
+      },
+      {
+        "idx": 12,
+        "milhar": "5145",
+        "dezena": 45,
+        "grupo": 12,
+        "animal": "Elefante"
+      },
+      {
+        "idx": 13,
+        "milhar": "3670",
+        "dezena": 70,
+        "grupo": 18,
+        "animal": "Porco"
+      },
+      {
+        "idx": 14,
+        "milhar": "3705",
+        "dezena": 5,
+        "grupo": 2,
+        "animal": "Águia"
+      },
+      {
+        "idx": 15,
+        "milhar": "1735",
+        "dezena": 35,
+        "grupo": 9,
+        "animal": "Cobra"
+      },
+      {
+        "idx": 16,
+        "milhar": "7632",
+        "dezena": 32,
+        "grupo": 8,
+        "animal": "Camelo"
+      },
+      {
+        "idx": 17,
+        "milhar": "5331",
+        "dezena": 31,
+        "grupo": 8,
+        "animal": "Camelo"
+      },
+      {
+        "idx": 18,
+        "milhar": "1677",
+        "dezena": 77,
+        "grupo": 20,
+        "animal": "Peru"
+      },
+      {
+        "idx": 19,
+        "milhar": "4703",
+        "dezena": 3,
+        "grupo": 1,
+        "animal": "Avestruz"
+      },
+      {
+        "idx": 20,
+        "milhar": "5055",
+        "dezena": 55,
+        "grupo": 14,
+        "animal": "Gato"
+      },
+      {
+        "idx": 21,
+        "milhar": "8653",
+        "dezena": 53,
+        "grupo": 14,
+        "animal": "Gato"
+      },
+      {
+        "idx": 22,
+        "milhar": "5902",
+        "dezena": 2,
+        "grupo": 1,
+        "animal": "Avestruz"
+      },
+      {
+        "idx": 23,
+        "milhar": "4518",
+        "dezena": 18,
+        "grupo": 5,
+        "animal": "Cachorro"
+      },
+      {
+        "idx": 24,
+        "milhar": "7443",
+        "dezena": 43,
+        "grupo": 11,
+        "animal": "Cavalo"
+      },
+      {
+        "idx": 25,
+        "milhar": "6904",
+        "dezena": 4,
+        "grupo": 1,
+        "animal": "Avestruz"
+      },
+      {
+        "idx": 26,
+        "milhar": "6050",
+        "dezena": 50,
+        "grupo": 13,
+        "animal": "Galo"
+      },
+      {
+        "idx": 27,
+        "milhar": "5476",
+        "dezena": 76,
+        "grupo": 19,
+        "animal": "Pavão"
+      },
+      {
+        "idx": 28,
+        "milhar": "9549",
+        "dezena": 49,
+        "grupo": 13,
+        "animal": "Galo"
+      },
+      {
+        "idx": 29,
+        "milhar": "0140",
+        "dezena": 40,
+        "grupo": 10,
+        "animal": "Coelho"
+      },
+      {
+        "idx": 30,
+        "milhar": "2834",
+        "dezena": 34,
+        "grupo": 9,
+        "animal": "Cobra"
+      },
+      {
+        "idx": 31,
+        "milhar": "8816",
+        "dezena": 16,
+        "grupo": 4,
+        "animal": "Borboleta"
+      },
+      {
+        "idx": 32,
+        "milhar": "8460",
+        "dezena": 60,
+        "grupo": 15,
+        "animal": "Jacaré"
+      },
+      {
+        "idx": 33,
+        "milhar": "3895",
+        "dezena": 95,
+        "grupo": 24,
+        "animal": "Veado"
+      },
+      {
+        "idx": 34,
+        "milhar": "3938",
+        "dezena": 38,
+        "grupo": 10,
+        "animal": "Coelho"
+      },
+      {
+        "idx": 35,
+        "milhar": "4462",
+        "dezena": 62,
+        "grupo": 16,
+        "animal": "Leão"
+      },
+      {
+        "idx": 36,
+        "milhar": "4760",
+        "dezena": 60,
+        "grupo": 15,
+        "animal": "Jacaré"
+      },
+      {
+        "idx": 37,
+        "milhar": "8334",
+        "dezena": 34,
+        "grupo": 9,
+        "animal": "Cobra"
+      },
+      {
+        "idx": 38,
+        "milhar": "4894",
+        "dezena": 94,
+        "grupo": 24,
+        "animal": "Veado"
+      },
+      {
+        "idx": 39,
+        "milhar": "6936",
+        "dezena": 36,
+        "grupo": 9,
+        "animal": "Cobra"
+      },
+      {
+        "idx": 40,
+        "milhar": "0582",
+        "dezena": 82,
+        "grupo": 21,
+        "animal": "Touro"
+      },
+      {
+        "idx": 41,
+        "milhar": "6261",
+        "dezena": 61,
+        "grupo": 16,
+        "animal": "Leão"
+      },
+      {
+        "idx": 42,
+        "milhar": "6681",
+        "dezena": 81,
+        "grupo": 21,
+        "animal": "Touro"
+      },
+      {
+        "idx": 43,
+        "milhar": "9266",
+        "dezena": 66,
+        "grupo": 17,
+        "animal": "Macaco"
+      },
+      {
+        "idx": 44,
+        "milhar": "7509",
+        "dezena": 9,
+        "grupo": 3,
+        "animal": "Burro"
+      },
+      {
+        "idx": 45,
+        "milhar": "6304",
+        "dezena": 4,
+        "grupo": 1,
+        "animal": "Avestruz"
+      },
+      {
+        "idx": 46,
+        "milhar": "0342",
+        "dezena": 42,
+        "grupo": 11,
+        "animal": "Cavalo"
+      },
+      {
+        "idx": 47,
+        "milhar": "6976",
+        "dezena": 76,
+        "grupo": 19,
+        "animal": "Pavão"
+      },
+      {
+        "idx": 48,
+        "milhar": "6253",
+        "dezena": 53,
+        "grupo": 14,
+        "animal": "Gato"
+      },
+      {
+        "idx": 49,
+        "milhar": "8600",
+        "dezena": 0,
+        "grupo": 25,
+        "animal": "Vaca"
+      },
+      {
+        "idx": 50,
+        "milhar": "1694",
+        "dezena": 94,
+        "grupo": 24,
+        "animal": "Veado"
+      },
+      {
+        "idx": 51,
+        "milhar": "3625",
+        "dezena": 25,
+        "grupo": 7,
+        "animal": "Carneiro"
+      },
+      {
+        "idx": 52,
+        "milhar": "7529",
+        "dezena": 29,
+        "grupo": 8,
+        "animal": "Camelo"
+      },
+      {
+        "idx": 53,
+        "milhar": "3258",
+        "dezena": 58,
+        "grupo": 15,
+        "animal": "Jacaré"
+      },
+      {
+        "idx": 54,
+        "milhar": "6198",
+        "dezena": 98,
+        "grupo": 25,
+        "animal": "Vaca"
+      },
+      {
+        "idx": 55,
+        "milhar": "8037",
+        "dezena": 37,
+        "grupo": 10,
+        "animal": "Coelho"
+      },
+      {
+        "idx": 56,
+        "milhar": "9319",
+        "dezena": 19,
+        "grupo": 5,
+        "animal": "Cachorro"
+      },
+      {
+        "idx": 57,
+        "milhar": "7368",
+        "dezena": 68,
+        "grupo": 17,
+        "animal": "Macaco"
+      },
+      {
+        "idx": 58,
+        "milhar": "5210",
+        "dezena": 10,
+        "grupo": 3,
+        "animal": "Burro"
+      },
+      {
+        "idx": 59,
+        "milhar": "2593",
+        "dezena": 93,
+        "grupo": 24,
+        "animal": "Veado"
+      },
+      {
+        "idx": 60,
+        "milhar": "9887",
+        "dezena": 87,
+        "grupo": 22,
+        "animal": "Tigre"
+      },
+      {
+        "idx": 61,
+        "milhar": "9399",
+        "dezena": 99,
+        "grupo": 25,
+        "animal": "Vaca"
+      },
+      {
+        "idx": 62,
+        "milhar": "6021",
+        "dezena": 21,
+        "grupo": 6,
+        "animal": "Cabra"
+      },
+      {
+        "idx": 63,
+        "milhar": "8530",
+        "dezena": 30,
+        "grupo": 8,
+        "animal": "Camelo"
+      },
+      {
+        "idx": 64,
+        "milhar": "7695",
+        "dezena": 95,
+        "grupo": 24,
+        "animal": "Veado"
+      },
+      {
+        "idx": 65,
+        "milhar": "6917",
+        "dezena": 17,
+        "grupo": 5,
+        "animal": "Cachorro"
+      },
+      {
+        "idx": 66,
+        "milhar": "7306",
+        "dezena": 6,
+        "grupo": 2,
+        "animal": "Águia"
+      },
+      {
+        "idx": 67,
+        "milhar": "6876",
+        "dezena": 76,
+        "grupo": 19,
+        "animal": "Pavão"
+      },
+      {
+        "idx": 68,
+        "milhar": "0569",
+        "dezena": 69,
+        "grupo": 18,
+        "animal": "Porco"
+      },
+      {
+        "idx": 69,
+        "milhar": "2391",
+        "dezena": 91,
+        "grupo": 23,
+        "animal": "Urso"
+      },
+      {
+        "idx": 70,
+        "milhar": "1057",
+        "dezena": 57,
+        "grupo": 15,
+        "animal": "Jacaré"
+      },
+      {
+        "idx": 71,
+        "milhar": "7362",
+        "dezena": 62,
+        "grupo": 16,
+        "animal": "Leão"
+      },
+      {
+        "idx": 72,
+        "milhar": "7010",
+        "dezena": 10,
+        "grupo": 3,
+        "animal": "Burro"
+      },
+      {
+        "idx": 73,
+        "milhar": "9280",
+        "dezena": 80,
+        "grupo": 20,
+        "animal": "Peru"
+      },
+      {
+        "idx": 74,
+        "milhar": "5921",
+        "dezena": 21,
+        "grupo": 6,
+        "animal": "Cabra"
+      },
+      {
+        "idx": 75,
+        "milhar": "6696",
+        "dezena": 96,
+        "grupo": 24,
+        "animal": "Veado"
+      },
+      {
+        "idx": 76,
+        "milhar": "7495",
+        "dezena": 95,
+        "grupo": 24,
+        "animal": "Veado"
+      },
+      {
+        "idx": 77,
+        "milhar": "0729",
+        "dezena": 29,
+        "grupo": 8,
+        "animal": "Camelo"
+      },
+      {
+        "idx": 78,
+        "milhar": "1482",
+        "dezena": 82,
+        "grupo": 21,
+        "animal": "Touro"
+      },
+      {
+        "idx": 79,
+        "milhar": "0601",
+        "dezena": 1,
+        "grupo": 1,
+        "animal": "Avestruz"
+      },
+      {
+        "idx": 80,
+        "milhar": "3960",
+        "dezena": 60,
+        "grupo": 15,
+        "animal": "Jacaré"
+      },
+      {
+        "idx": 81,
+        "milhar": "0168",
+        "dezena": 68,
+        "grupo": 17,
+        "animal": "Macaco"
+      },
+      {
+        "idx": 82,
+        "milhar": "8675",
+        "dezena": 75,
+        "grupo": 19,
+        "animal": "Pavão"
+      },
+      {
+        "idx": 83,
+        "milhar": "0906",
+        "dezena": 6,
+        "grupo": 2,
+        "animal": "Águia"
+      },
+      {
+        "idx": 84,
+        "milhar": "7990",
+        "dezena": 90,
+        "grupo": 23,
+        "animal": "Urso"
+      },
+      {
+        "idx": 85,
+        "milhar": "4742",
+        "dezena": 42,
+        "grupo": 11,
+        "animal": "Cavalo"
+      },
+      {
+        "idx": 86,
+        "milhar": "0807",
+        "dezena": 7,
+        "grupo": 2,
+        "animal": "Águia"
+      },
+      {
+        "idx": 87,
+        "milhar": "1699",
+        "dezena": 99,
+        "grupo": 25,
+        "animal": "Vaca"
+      },
+      {
+        "idx": 88,
+        "milhar": "6709",
+        "dezena": 9,
+        "grupo": 3,
+        "animal": "Burro"
+      },
+      {
+        "idx": 89,
+        "milhar": "8560",
+        "dezena": 60,
+        "grupo": 15,
+        "animal": "Jacaré"
+      },
+      {
+        "idx": 90,
+        "milhar": "0256",
+        "dezena": 56,
+        "grupo": 14,
+        "animal": "Gato"
+      },
+      {
+        "idx": 91,
+        "milhar": "6859",
+        "dezena": 59,
+        "grupo": 15,
+        "animal": "Jacaré"
+      },
+      {
+        "idx": 92,
+        "milhar": "6765",
+        "dezena": 65,
+        "grupo": 17,
+        "animal": "Macaco"
+      },
+      {
+        "idx": 93,
+        "milhar": "6477",
+        "dezena": 77,
+        "grupo": 20,
+        "animal": "Peru"
+      },
+      {
+        "idx": 94,
+        "milhar": "4236",
+        "dezena": 36,
+        "grupo": 9,
+        "animal": "Cobra"
+      },
+      {
+        "idx": 95,
+        "milhar": "1423",
+        "dezena": 23,
+        "grupo": 6,
+        "animal": "Cabra"
+      },
+      {
+        "idx": 96,
+        "milhar": "6664",
+        "dezena": 64,
+        "grupo": 16,
+        "animal": "Leão"
+      },
+      {
+        "idx": 97,
+        "milhar": "8742",
+        "dezena": 42,
+        "grupo": 11,
+        "animal": "Cavalo"
+      },
+      {
+        "idx": 98,
+        "milhar": "5673",
+        "dezena": 73,
+        "grupo": 19,
+        "animal": "Pavão"
+      },
+      {
+        "idx": 99,
+        "milhar": "9576",
+        "dezena": 76,
+        "grupo": 19,
+        "animal": "Pavão"
+      },
+      {
+        "idx": 100,
+        "milhar": "6415",
+        "dezena": 15,
+        "grupo": 4,
+        "animal": "Borboleta"
+      },
+      {
+        "idx": 101,
+        "milhar": "8941",
+        "dezena": 41,
+        "grupo": 11,
+        "animal": "Cavalo"
+      },
+      {
+        "idx": 102,
+        "milhar": "0566",
+        "dezena": 66,
+        "grupo": 17,
+        "animal": "Macaco"
+      },
+      {
+        "idx": 103,
+        "milhar": "2759",
+        "dezena": 59,
+        "grupo": 15,
+        "animal": "Jacaré"
+      },
+      {
+        "idx": 104,
+        "milhar": "4560",
+        "dezena": 60,
+        "grupo": 15,
+        "animal": "Jacaré"
+      },
+      {
+        "idx": 105,
+        "milhar": "2796",
+        "dezena": 96,
+        "grupo": 24,
+        "animal": "Veado"
+      },
+      {
+        "idx": 106,
+        "milhar": "8024",
+        "dezena": 24,
+        "grupo": 6,
+        "animal": "Cabra"
+      },
+      {
+        "idx": 107,
+        "milhar": "9575",
+        "dezena": 75,
+        "grupo": 19,
+        "animal": "Pavão"
+      },
+      {
+        "idx": 108,
+        "milhar": "4656",
+        "dezena": 56,
+        "grupo": 14,
+        "animal": "Gato"
+      },
+      {
+        "idx": 109,
+        "milhar": "1690",
+        "dezena": 90,
+        "grupo": 23,
+        "animal": "Urso"
+      },
+      {
+        "idx": 110,
+        "milhar": "3567",
+        "dezena": 67,
+        "grupo": 17,
+        "animal": "Macaco"
+      },
+      {
+        "idx": 111,
+        "milhar": "6707",
+        "dezena": 7,
+        "grupo": 2,
+        "animal": "Águia"
+      },
+      {
+        "idx": 112,
+        "milhar": "8684",
+        "dezena": 84,
+        "grupo": 21,
+        "animal": "Touro"
+      },
+      {
+        "idx": 113,
+        "milhar": "5645",
+        "dezena": 45,
+        "grupo": 12,
+        "animal": "Elefante"
+      },
+      {
+        "idx": 114,
+        "milhar": "4152",
+        "dezena": 52,
+        "grupo": 13,
+        "animal": "Galo"
+      },
+      {
+        "idx": 115,
+        "milhar": "7311",
+        "dezena": 11,
+        "grupo": 3,
+        "animal": "Burro"
+      },
+      {
+        "idx": 116,
+        "milhar": "6854",
+        "dezena": 54,
+        "grupo": 14,
+        "animal": "Gato"
+      },
+      {
+        "idx": 117,
+        "milhar": "7661",
+        "dezena": 61,
+        "grupo": 16,
+        "animal": "Leão"
+      },
+      {
+        "idx": 118,
+        "milhar": "0845",
+        "dezena": 45,
+        "grupo": 12,
+        "animal": "Elefante"
+      },
+      {
+        "idx": 119,
+        "milhar": "7452",
+        "dezena": 52,
+        "grupo": 13,
+        "animal": "Galo"
+      },
+      {
+        "idx": 120,
+        "milhar": "5311",
+        "dezena": 11,
+        "grupo": 3,
+        "animal": "Burro"
+      },
+      {
+        "idx": 121,
+        "milhar": "2870",
+        "dezena": 70,
+        "grupo": 18,
+        "animal": "Porco"
+      },
+      {
+        "idx": 122,
+        "milhar": "8581",
+        "dezena": 81,
+        "grupo": 21,
+        "animal": "Touro"
+      },
+      {
+        "idx": 123,
+        "milhar": "6971",
+        "dezena": 71,
+        "grupo": 18,
+        "animal": "Porco"
+      },
+      {
+        "idx": 124,
+        "milhar": "5699",
+        "dezena": 99,
+        "grupo": 25,
+        "animal": "Vaca"
+      },
+      {
+        "idx": 125,
+        "milhar": "4271",
+        "dezena": 71,
+        "grupo": 18,
+        "animal": "Porco"
+      },
+      {
+        "idx": 126,
+        "milhar": "2865",
+        "dezena": 65,
+        "grupo": 17,
+        "animal": "Macaco"
+      },
+      {
+        "idx": 127,
+        "milhar": "8596",
+        "dezena": 96,
+        "grupo": 24,
+        "animal": "Veado"
+      },
+      {
+        "idx": 128,
+        "milhar": "7879",
+        "dezena": 79,
+        "grupo": 20,
+        "animal": "Peru"
+      },
+      {
+        "idx": 129,
+        "milhar": "0119",
+        "dezena": 19,
+        "grupo": 5,
+        "animal": "Cachorro"
+      },
+      {
+        "idx": 130,
+        "milhar": "7851",
+        "dezena": 51,
+        "grupo": 13,
+        "animal": "Galo"
+      },
+      {
+        "idx": 131,
+        "milhar": "5882",
+        "dezena": 82,
+        "grupo": 21,
+        "animal": "Touro"
+      },
+      {
+        "idx": 132,
+        "milhar": "2488",
+        "dezena": 88,
+        "grupo": 22,
+        "animal": "Tigre"
+      },
+      {
+        "idx": 133,
+        "milhar": "0837",
+        "dezena": 37,
+        "grupo": 10,
+        "animal": "Coelho"
+      },
+      {
+        "idx": 134,
+        "milhar": "3094",
+        "dezena": 94,
+        "grupo": 24,
+        "animal": "Veado"
+      },
+      {
+        "idx": 135,
+        "milhar": "8958",
+        "dezena": 58,
+        "grupo": 15,
+        "animal": "Jacaré"
+      },
+      {
+        "idx": 136,
+        "milhar": "5203",
+        "dezena": 3,
+        "grupo": 1,
+        "animal": "Avestruz"
+      },
+      {
+        "idx": 137,
+        "milhar": "8480",
+        "dezena": 80,
+        "grupo": 20,
+        "animal": "Peru"
+      },
+      {
+        "idx": 138,
+        "milhar": "8839",
+        "dezena": 39,
+        "grupo": 10,
+        "animal": "Coelho"
+      },
+      {
+        "idx": 139,
+        "milhar": "2874",
+        "dezena": 74,
+        "grupo": 19,
+        "animal": "Pavão"
+      },
+      {
+        "idx": 140,
+        "milhar": "6655",
+        "dezena": 55,
+        "grupo": 14,
+        "animal": "Gato"
+      },
+      {
+        "idx": 141,
+        "milhar": "8361",
+        "dezena": 61,
+        "grupo": 16,
+        "animal": "Leão"
+      },
+      {
+        "idx": 142,
+        "milhar": "0735",
+        "dezena": 35,
+        "grupo": 9,
+        "animal": "Cobra"
+      },
+      {
+        "idx": 143,
+        "milhar": "8575",
+        "dezena": 75,
+        "grupo": 19,
+        "animal": "Pavão"
+      },
+      {
+        "idx": 144,
+        "milhar": "9969",
+        "dezena": 69,
+        "grupo": 18,
+        "animal": "Porco"
+      },
+      {
+        "idx": 145,
+        "milhar": "0594",
+        "dezena": 94,
+        "grupo": 24,
+        "animal": "Veado"
+      },
+      {
+        "idx": 146,
+        "milhar": "8089",
+        "dezena": 89,
+        "grupo": 23,
+        "animal": "Urso"
+      },
+      {
+        "idx": 147,
+        "milhar": "3759",
+        "dezena": 59,
+        "grupo": 15,
+        "animal": "Jacaré"
+      },
+      {
+        "idx": 148,
+        "milhar": "6376",
+        "dezena": 76,
+        "grupo": 19,
+        "animal": "Pavão"
+      },
+      {
+        "idx": 149,
+        "milhar": "1559",
+        "dezena": 59,
+        "grupo": 15,
+        "animal": "Jacaré"
+      },
+      {
+        "idx": 150,
+        "milhar": "8017",
+        "dezena": 17,
+        "grupo": 5,
+        "animal": "Cachorro"
+      },
+      {
+        "idx": 151,
+        "milhar": "8824",
+        "dezena": 24,
+        "grupo": 6,
+        "animal": "Cabra"
+      },
+      {
+        "idx": 152,
+        "milhar": "1700",
+        "dezena": 0,
+        "grupo": 25,
+        "animal": "Vaca"
+      },
+      {
+        "idx": 153,
+        "milhar": "7852",
+        "dezena": 52,
+        "grupo": 13,
+        "animal": "Galo"
+      },
+      {
+        "idx": 154,
+        "milhar": "9103",
+        "dezena": 3,
+        "grupo": 1,
+        "animal": "Avestruz"
+      },
+      {
+        "idx": 155,
+        "milhar": "0919",
+        "dezena": 19,
+        "grupo": 5,
+        "animal": "Cachorro"
+      },
+      {
+        "idx": 156,
+        "milhar": "8179",
+        "dezena": 79,
+        "grupo": 20,
+        "animal": "Peru"
+      },
+      {
+        "idx": 157,
+        "milhar": "8781",
+        "dezena": 81,
+        "grupo": 21,
+        "animal": "Touro"
+      },
+      {
+        "idx": 158,
+        "milhar": "2050",
+        "dezena": 50,
+        "grupo": 13,
+        "animal": "Galo"
+      },
+      {
+        "idx": 159,
+        "milhar": "4023",
+        "dezena": 23,
+        "grupo": 6,
+        "animal": "Cabra"
+      },
+      {
+        "idx": 160,
+        "milhar": "1431",
+        "dezena": 31,
+        "grupo": 8,
+        "animal": "Camelo"
+      },
+      {
+        "idx": 161,
+        "milhar": "1411",
+        "dezena": 11,
+        "grupo": 3,
+        "animal": "Burro"
+      },
+      {
+        "idx": 162,
+        "milhar": "9622",
+        "dezena": 22,
+        "grupo": 6,
+        "animal": "Cabra"
+      },
+      {
+        "idx": 163,
+        "milhar": "3487",
+        "dezena": 87,
+        "grupo": 22,
+        "animal": "Tigre"
+      },
+      {
+        "idx": 164,
+        "milhar": "7238",
+        "dezena": 38,
+        "grupo": 10,
+        "animal": "Coelho"
+      },
+      {
+        "idx": 165,
+        "milhar": "0580",
+        "dezena": 80,
+        "grupo": 20,
+        "animal": "Peru"
+      },
+      {
+        "idx": 166,
+        "milhar": "1937",
+        "dezena": 37,
+        "grupo": 10,
+        "animal": "Coelho"
+      },
+      {
+        "idx": 167,
+        "milhar": "4642",
+        "dezena": 42,
+        "grupo": 11,
+        "animal": "Cavalo"
+      },
+      {
+        "idx": 168,
+        "milhar": "1283",
+        "dezena": 83,
+        "grupo": 21,
+        "animal": "Touro"
+      },
+      {
+        "idx": 169,
+        "milhar": "1278",
+        "dezena": 78,
+        "grupo": 20,
+        "animal": "Peru"
+      },
+      {
+        "idx": 170,
+        "milhar": "1478",
+        "dezena": 78,
+        "grupo": 20,
+        "animal": "Peru"
+      },
+      {
+        "idx": 171,
+        "milhar": "4240",
+        "dezena": 40,
+        "grupo": 10,
+        "animal": "Coelho"
+      },
+      {
+        "idx": 172,
+        "milhar": "1371",
+        "dezena": 71,
+        "grupo": 18,
+        "animal": "Porco"
+      },
+      {
+        "idx": 173,
+        "milhar": "6375",
+        "dezena": 75,
+        "grupo": 19,
+        "animal": "Pavão"
+      },
+      {
+        "idx": 174,
+        "milhar": "6496",
+        "dezena": 96,
+        "grupo": 24,
+        "animal": "Veado"
+      },
+      {
+        "idx": 175,
+        "milhar": "5616",
+        "dezena": 16,
+        "grupo": 4,
+        "animal": "Borboleta"
+      },
+      {
+        "idx": 176,
+        "milhar": "4166",
+        "dezena": 66,
+        "grupo": 17,
+        "animal": "Macaco"
+      },
+      {
+        "idx": 177,
+        "milhar": "2334",
+        "dezena": 34,
+        "grupo": 9,
+        "animal": "Cobra"
+      },
+      {
+        "idx": 178,
+        "milhar": "4779",
+        "dezena": 79,
+        "grupo": 20,
+        "animal": "Peru"
+      },
+      {
+        "idx": 179,
+        "milhar": "0156",
+        "dezena": 56,
+        "grupo": 14,
+        "animal": "Gato"
+      },
+      {
+        "idx": 180,
+        "milhar": "5533",
+        "dezena": 33,
+        "grupo": 9,
+        "animal": "Cobra"
+      },
+      {
+        "idx": 181,
+        "milhar": "8399",
+        "dezena": 99,
+        "grupo": 25,
+        "animal": "Vaca"
+      },
+      {
+        "idx": 182,
+        "milhar": "8185",
+        "dezena": 85,
+        "grupo": 22,
+        "animal": "Tigre"
+      },
+      {
+        "idx": 183,
+        "milhar": "9507",
+        "dezena": 7,
+        "grupo": 2,
+        "animal": "Águia"
+      },
+      {
+        "idx": 184,
+        "milhar": "3363",
+        "dezena": 63,
+        "grupo": 16,
+        "animal": "Leão"
+      },
+      {
+        "idx": 185,
+        "milhar": "3609",
+        "dezena": 9,
+        "grupo": 3,
+        "animal": "Burro"
+      },
+      {
+        "idx": 186,
+        "milhar": "8893",
+        "dezena": 93,
+        "grupo": 24,
+        "animal": "Veado"
+      },
+      {
+        "idx": 187,
+        "milhar": "3153",
+        "dezena": 53,
+        "grupo": 14,
+        "animal": "Gato"
+      },
+      {
+        "idx": 188,
+        "milhar": "9806",
+        "dezena": 6,
+        "grupo": 2,
+        "animal": "Águia"
+      },
+      {
+        "idx": 189,
+        "milhar": "9573",
+        "dezena": 73,
+        "grupo": 19,
+        "animal": "Pavão"
+      },
+      {
+        "idx": 190,
+        "milhar": "4488",
+        "dezena": 88,
+        "grupo": 22,
+        "animal": "Tigre"
+      },
+      {
+        "idx": 191,
+        "milhar": "8260",
+        "dezena": 60,
+        "grupo": 15,
+        "animal": "Jacaré"
+      },
+      {
+        "idx": 192,
+        "milhar": "4789",
+        "dezena": 89,
+        "grupo": 23,
+        "animal": "Urso"
+      },
+      {
+        "idx": 193,
+        "milhar": "0540",
+        "dezena": 40,
+        "grupo": 10,
+        "animal": "Coelho"
+      },
+      {
+        "idx": 194,
+        "milhar": "6720",
+        "dezena": 20,
+        "grupo": 5,
+        "animal": "Cachorro"
+      },
+      {
+        "idx": 195,
+        "milhar": "8894",
+        "dezena": 94,
+        "grupo": 24,
+        "animal": "Veado"
+      },
+      {
+        "idx": 196,
+        "milhar": "8406",
+        "dezena": 6,
+        "grupo": 2,
+        "animal": "Águia"
+      },
+      {
+        "idx": 197,
+        "milhar": "2757",
+        "dezena": 57,
+        "grupo": 15,
+        "animal": "Jacaré"
+      },
+      {
+        "idx": 198,
+        "milhar": "6842",
+        "dezena": 42,
+        "grupo": 11,
+        "animal": "Cavalo"
+      },
+      {
+        "idx": 199,
+        "milhar": "0900",
+        "dezena": 0,
+        "grupo": 25,
+        "animal": "Vaca"
+      },
+      {
+        "idx": 200,
+        "milhar": "8108",
+        "dezena": 8,
+        "grupo": 2,
+        "animal": "Águia"
+      },
+      {
+        "idx": 201,
+        "milhar": "8069",
+        "dezena": 69,
+        "grupo": 18,
+        "animal": "Porco"
+      },
+      {
+        "idx": 202,
+        "milhar": "7221",
+        "dezena": 21,
+        "grupo": 6,
+        "animal": "Cabra"
+      },
+      {
+        "idx": 203,
+        "milhar": "8131",
+        "dezena": 31,
+        "grupo": 8,
+        "animal": "Camelo"
+      },
+      {
+        "idx": 204,
+        "milhar": "0035",
+        "dezena": 35,
+        "grupo": 9,
+        "animal": "Cobra"
+      },
+      {
+        "idx": 205,
+        "milhar": "7421",
+        "dezena": 21,
+        "grupo": 6,
+        "animal": "Cabra"
+      },
+      {
+        "idx": 206,
+        "milhar": "8780",
+        "dezena": 80,
+        "grupo": 20,
+        "animal": "Peru"
+      },
+      {
+        "idx": 207,
+        "milhar": "0210",
+        "dezena": 10,
+        "grupo": 3,
+        "animal": "Burro"
+      },
+      {
+        "idx": 208,
+        "milhar": "6233",
+        "dezena": 33,
+        "grupo": 9,
+        "animal": "Cobra"
+      },
+      {
+        "idx": 209,
+        "milhar": "9115",
+        "dezena": 15,
+        "grupo": 4,
+        "animal": "Borboleta"
+      },
+      {
+        "idx": 210,
+        "milhar": "5215",
+        "dezena": 15,
+        "grupo": 4,
+        "animal": "Borboleta"
+      },
+      {
+        "idx": 211,
+        "milhar": "3983",
+        "dezena": 83,
+        "grupo": 21,
+        "animal": "Touro"
+      },
+      {
+        "idx": 212,
+        "milhar": "2950",
+        "dezena": 50,
+        "grupo": 13,
+        "animal": "Galo"
+      },
+      {
+        "idx": 213,
+        "milhar": "7948",
+        "dezena": 48,
+        "grupo": 12,
+        "animal": "Elefante"
+      },
+      {
+        "idx": 214,
+        "milhar": "0617",
+        "dezena": 17,
+        "grupo": 5,
+        "animal": "Cachorro"
+      },
+      {
+        "idx": 215,
+        "milhar": "3427",
+        "dezena": 27,
+        "grupo": 7,
+        "animal": "Carneiro"
+      },
+      {
+        "idx": 216,
+        "milhar": "9799",
+        "dezena": 99,
+        "grupo": 25,
+        "animal": "Vaca"
+      },
+      {
+        "idx": 217,
+        "milhar": "8454",
+        "dezena": 54,
+        "grupo": 14,
+        "animal": "Gato"
+      },
+      {
+        "idx": 218,
+        "milhar": "3208",
+        "dezena": 8,
+        "grupo": 2,
+        "animal": "Águia"
+      },
+      {
+        "idx": 219,
+        "milhar": "5128",
+        "dezena": 28,
+        "grupo": 7,
+        "animal": "Carneiro"
+      },
+      {
+        "idx": 220,
+        "milhar": "9461",
+        "dezena": 61,
+        "grupo": 16,
+        "animal": "Leão"
+      },
+      {
+        "idx": 221,
+        "milhar": "7607",
+        "dezena": 7,
+        "grupo": 2,
+        "animal": "Águia"
+      },
+      {
+        "idx": 222,
+        "milhar": "4597",
+        "dezena": 97,
+        "grupo": 25,
+        "animal": "Vaca"
+      },
+      {
+        "idx": 223,
+        "milhar": "8295",
+        "dezena": 95,
+        "grupo": 24,
+        "animal": "Veado"
+      },
+      {
+        "idx": 224,
+        "milhar": "6534",
+        "dezena": 34,
+        "grupo": 9,
+        "animal": "Cobra"
+      },
+      {
+        "idx": 225,
+        "milhar": "9748",
+        "dezena": 48,
+        "grupo": 12,
+        "animal": "Elefante"
+      },
+      {
+        "idx": 226,
+        "milhar": "4652",
+        "dezena": 52,
+        "grupo": 13,
+        "animal": "Galo"
+      },
+      {
+        "idx": 227,
+        "milhar": "6099",
+        "dezena": 99,
+        "grupo": 25,
+        "animal": "Vaca"
+      },
+      {
+        "idx": 228,
+        "milhar": "1775",
+        "dezena": 75,
+        "grupo": 19,
+        "animal": "Pavão"
+      },
+      {
+        "idx": 229,
+        "milhar": "8768",
+        "dezena": 68,
+        "grupo": 17,
+        "animal": "Macaco"
+      },
+      {
+        "idx": 230,
+        "milhar": "4692",
+        "dezena": 92,
+        "grupo": 23,
+        "animal": "Urso"
+      },
+      {
+        "idx": 231,
+        "milhar": "1605",
+        "dezena": 5,
+        "grupo": 2,
+        "animal": "Águia"
+      },
+      {
+        "idx": 232,
+        "milhar": "3980",
+        "dezena": 80,
+        "grupo": 20,
+        "animal": "Peru"
+      },
+      {
+        "idx": 233,
+        "milhar": "9042",
+        "dezena": 42,
+        "grupo": 11,
+        "animal": "Cavalo"
+      },
+      {
+        "idx": 234,
+        "milhar": "5265",
+        "dezena": 65,
+        "grupo": 17,
+        "animal": "Macaco"
+      },
+      {
+        "idx": 235,
+        "milhar": "4139",
+        "dezena": 39,
+        "grupo": 10,
+        "animal": "Coelho"
+      },
+      {
+        "idx": 236,
+        "milhar": "6690",
+        "dezena": 90,
+        "grupo": 23,
+        "animal": "Urso"
+      },
+      {
+        "idx": 237,
+        "milhar": "9084",
+        "dezena": 84,
+        "grupo": 21,
+        "animal": "Touro"
+      },
+      {
+        "idx": 238,
+        "milhar": "2502",
+        "dezena": 2,
+        "grupo": 1,
+        "animal": "Avestruz"
+      },
+      {
+        "idx": 239,
+        "milhar": "6999",
+        "dezena": 99,
+        "grupo": 25,
+        "animal": "Vaca"
+      },
+      {
+        "idx": 240,
+        "milhar": "5648",
+        "dezena": 48,
+        "grupo": 12,
+        "animal": "Elefante"
+      },
+      {
+        "idx": 241,
+        "milhar": "2394",
+        "dezena": 94,
+        "grupo": 24,
+        "animal": "Veado"
+      },
+      {
+        "idx": 242,
+        "milhar": "8223",
+        "dezena": 23,
+        "grupo": 6,
+        "animal": "Cabra"
+      },
+      {
+        "idx": 243,
+        "milhar": "7440",
+        "dezena": 40,
+        "grupo": 10,
+        "animal": "Coelho"
+      },
+      {
+        "idx": 244,
+        "milhar": "5604",
+        "dezena": 4,
+        "grupo": 1,
+        "animal": "Avestruz"
+      },
+      {
+        "idx": 245,
+        "milhar": "5287",
+        "dezena": 87,
+        "grupo": 22,
+        "animal": "Tigre"
+      },
+      {
+        "idx": 246,
+        "milhar": "6324",
+        "dezena": 24,
+        "grupo": 6,
+        "animal": "Cabra"
+      },
+      {
+        "idx": 247,
+        "milhar": "4924",
+        "dezena": 24,
+        "grupo": 6,
+        "animal": "Cabra"
+      },
+      {
+        "idx": 248,
+        "milhar": "8430",
+        "dezena": 30,
+        "grupo": 8,
+        "animal": "Camelo"
+      },
+      {
+        "idx": 249,
+        "milhar": "4274",
+        "dezena": 74,
+        "grupo": 19,
+        "animal": "Pavão"
+      },
+      {
+        "idx": 250,
+        "milhar": "3662",
+        "dezena": 62,
+        "grupo": 16,
+        "animal": "Leão"
+      },
+      {
+        "idx": 251,
+        "milhar": "8356",
+        "dezena": 56,
+        "grupo": 14,
+        "animal": "Gato"
+      },
+      {
+        "idx": 252,
+        "milhar": "6015",
+        "dezena": 15,
+        "grupo": 4,
+        "animal": "Borboleta"
+      },
+      {
+        "idx": 253,
+        "milhar": "6341",
+        "dezena": 41,
+        "grupo": 11,
+        "animal": "Cavalo"
+      },
+      {
+        "idx": 254,
+        "milhar": "2952",
+        "dezena": 52,
+        "grupo": 13,
+        "animal": "Galo"
+      },
+      {
+        "idx": 255,
+        "milhar": "3866",
+        "dezena": 66,
+        "grupo": 17,
+        "animal": "Macaco"
+      },
+      {
+        "idx": 256,
+        "milhar": "6303",
+        "dezena": 3,
+        "grupo": 1,
+        "animal": "Avestruz"
+      },
+      {
+        "idx": 257,
+        "milhar": "6514",
+        "dezena": 14,
+        "grupo": 4,
+        "animal": "Borboleta"
+      },
+      {
+        "idx": 258,
+        "milhar": "2651",
+        "dezena": 51,
+        "grupo": 13,
+        "animal": "Galo"
+      },
+      {
+        "idx": 259,
+        "milhar": "6660",
+        "dezena": 60,
+        "grupo": 15,
+        "animal": "Jacaré"
+      },
+      {
+        "idx": 260,
+        "milhar": "7162",
+        "dezena": 62,
+        "grupo": 16,
+        "animal": "Leão"
+      },
+      {
+        "idx": 261,
+        "milhar": "0868",
+        "dezena": 68,
+        "grupo": 17,
+        "animal": "Macaco"
+      },
+      {
+        "idx": 262,
+        "milhar": "9398",
+        "dezena": 98,
+        "grupo": 25,
+        "animal": "Vaca"
+      },
+      {
+        "idx": 263,
+        "milhar": "3037",
+        "dezena": 37,
+        "grupo": 10,
+        "animal": "Coelho"
+      },
+      {
+        "idx": 264,
+        "milhar": "7059",
+        "dezena": 59,
+        "grupo": 15,
+        "animal": "Jacaré"
+      },
+      {
+        "idx": 265,
+        "milhar": "1863",
+        "dezena": 63,
+        "grupo": 16,
+        "animal": "Leão"
+      },
+      {
+        "idx": 266,
+        "milhar": "6609",
+        "dezena": 9,
+        "grupo": 3,
+        "animal": "Burro"
+      },
+      {
+        "idx": 267,
+        "milhar": "2848",
+        "dezena": 48,
+        "grupo": 12,
+        "animal": "Elefante"
+      },
+      {
+        "idx": 268,
+        "milhar": "4448",
+        "dezena": 48,
+        "grupo": 12,
+        "animal": "Elefante"
+      },
+      {
+        "idx": 269,
+        "milhar": "1135",
+        "dezena": 35,
+        "grupo": 9,
+        "animal": "Cobra"
+      },
+      {
+        "idx": 270,
+        "milhar": "4342",
+        "dezena": 42,
+        "grupo": 11,
+        "animal": "Cavalo"
+      },
+      {
+        "idx": 271,
+        "milhar": "9976",
+        "dezena": 76,
+        "grupo": 19,
+        "animal": "Pavão"
+      },
+      {
+        "idx": 272,
+        "milhar": "1289",
+        "dezena": 89,
+        "grupo": 23,
+        "animal": "Urso"
+      },
+      {
+        "idx": 273,
+        "milhar": "8247",
+        "dezena": 47,
+        "grupo": 12,
+        "animal": "Elefante"
+      },
+      {
+        "idx": 274,
+        "milhar": "1491",
+        "dezena": 91,
+        "grupo": 23,
+        "animal": "Urso"
+      },
+      {
+        "idx": 275,
+        "milhar": "1392",
+        "dezena": 92,
+        "grupo": 23,
+        "animal": "Urso"
+      },
+      {
+        "idx": 276,
+        "milhar": "3478",
+        "dezena": 78,
+        "grupo": 20,
+        "animal": "Peru"
+      },
+      {
+        "idx": 277,
+        "milhar": "5269",
+        "dezena": 69,
+        "grupo": 18,
+        "animal": "Porco"
+      },
+      {
+        "idx": 278,
+        "milhar": "6619",
+        "dezena": 19,
+        "grupo": 5,
+        "animal": "Cachorro"
+      },
+      {
+        "idx": 279,
+        "milhar": "8588",
+        "dezena": 88,
+        "grupo": 22,
+        "animal": "Tigre"
+      },
+      {
+        "idx": 280,
+        "milhar": "6325",
+        "dezena": 25,
+        "grupo": 7,
+        "animal": "Carneiro"
+      },
+      {
+        "idx": 281,
+        "milhar": "4168",
+        "dezena": 68,
+        "grupo": 17,
+        "animal": "Macaco"
+      },
+      {
+        "idx": 282,
+        "milhar": "0722",
+        "dezena": 22,
+        "grupo": 6,
+        "animal": "Cabra"
+      },
+      {
+        "idx": 283,
+        "milhar": "0326",
+        "dezena": 26,
+        "grupo": 7,
+        "animal": "Carneiro"
+      },
+      {
+        "idx": 284,
+        "milhar": "8640",
+        "dezena": 40,
+        "grupo": 10,
+        "animal": "Coelho"
+      },
+      {
+        "idx": 285,
+        "milhar": "5317",
+        "dezena": 17,
+        "grupo": 5,
+        "animal": "Cachorro"
+      },
+      {
+        "idx": 286,
+        "milhar": "8262",
+        "dezena": 62,
+        "grupo": 16,
+        "animal": "Leão"
+      },
+      {
+        "idx": 287,
+        "milhar": "8582",
+        "dezena": 82,
+        "grupo": 21,
+        "animal": "Touro"
+      },
+      {
+        "idx": 288,
+        "milhar": "0930",
+        "dezena": 30,
+        "grupo": 8,
+        "animal": "Camelo"
+      },
+      {
+        "idx": 289,
+        "milhar": "1494",
+        "dezena": 94,
+        "grupo": 24,
+        "animal": "Veado"
+      },
+      {
+        "idx": 290,
+        "milhar": "5341",
+        "dezena": 41,
+        "grupo": 11,
+        "animal": "Cavalo"
+      },
+      {
+        "idx": 291,
+        "milhar": "3568",
+        "dezena": 68,
+        "grupo": 17,
+        "animal": "Macaco"
+      },
+      {
+        "idx": 292,
+        "milhar": "0306",
+        "dezena": 6,
+        "grupo": 2,
+        "animal": "Águia"
+      },
+      {
+        "idx": 293,
+        "milhar": "9570",
+        "dezena": 70,
+        "grupo": 18,
+        "animal": "Porco"
+      },
+      {
+        "idx": 294,
+        "milhar": "1530",
+        "dezena": 30,
+        "grupo": 8,
+        "animal": "Camelo"
+      },
+      {
+        "idx": 295,
+        "milhar": "4353",
+        "dezena": 53,
+        "grupo": 14,
+        "animal": "Gato"
+      },
+      {
+        "idx": 296,
+        "milhar": "9460",
+        "dezena": 60,
+        "grupo": 15,
+        "animal": "Jacaré"
+      },
+      {
+        "idx": 297,
+        "milhar": "4186",
+        "dezena": 86,
+        "grupo": 22,
+        "animal": "Tigre"
+      },
+      {
+        "idx": 298,
+        "milhar": "9808",
+        "dezena": 8,
+        "grupo": 2,
+        "animal": "Águia"
+      },
+      {
+        "idx": 299,
+        "milhar": "3262",
+        "dezena": 62,
+        "grupo": 16,
+        "animal": "Leão"
+      },
+      {
+        "idx": 300,
+        "milhar": "6034",
+        "dezena": 34,
+        "grupo": 9,
+        "animal": "Cobra"
+      },
+      {
+        "idx": 301,
+        "milhar": "8848",
+        "dezena": 48,
+        "grupo": 12,
+        "animal": "Elefante"
+      },
+      {
+        "idx": 302,
+        "milhar": "1130",
+        "dezena": 30,
+        "grupo": 8,
+        "animal": "Camelo"
+      },
+      {
+        "idx": 303,
+        "milhar": "8923",
+        "dezena": 23,
+        "grupo": 6,
+        "animal": "Cabra"
+      },
+      {
+        "idx": 304,
+        "milhar": "3681",
+        "dezena": 81,
+        "grupo": 21,
+        "animal": "Touro"
+      },
+      {
+        "idx": 305,
+        "milhar": "2081",
+        "dezena": 81,
+        "grupo": 21,
+        "animal": "Touro"
+      },
+      {
+        "idx": 306,
+        "milhar": "6343",
+        "dezena": 43,
+        "grupo": 11,
+        "animal": "Cavalo"
+      },
+      {
+        "idx": 307,
+        "milhar": "2480",
+        "dezena": 80,
+        "grupo": 20,
+        "animal": "Peru"
+      },
+      {
+        "idx": 308,
+        "milhar": "2782",
+        "dezena": 82,
+        "grupo": 21,
+        "animal": "Touro"
+      },
+      {
+        "idx": 309,
+        "milhar": "3296",
+        "dezena": 96,
+        "grupo": 24,
+        "animal": "Veado"
+      },
+      {
+        "idx": 310,
+        "milhar": "9430",
+        "dezena": 30,
+        "grupo": 8,
+        "animal": "Camelo"
+      },
+      {
+        "idx": 311,
+        "milhar": "2724",
+        "dezena": 24,
+        "grupo": 6,
+        "animal": "Cabra"
+      },
+      {
+        "idx": 312,
+        "milhar": "5315",
+        "dezena": 15,
+        "grupo": 4,
+        "animal": "Borboleta"
+      },
+      {
+        "idx": 313,
+        "milhar": "8234",
+        "dezena": 34,
+        "grupo": 9,
+        "animal": "Cobra"
+      },
+      {
+        "idx": 314,
+        "milhar": "3925",
+        "dezena": 25,
+        "grupo": 7,
+        "animal": "Carneiro"
+      },
+      {
+        "idx": 315,
+        "milhar": "2473",
+        "dezena": 73,
+        "grupo": 19,
+        "animal": "Pavão"
+      },
+      {
+        "idx": 316,
+        "milhar": "9321",
+        "dezena": 21,
+        "grupo": 6,
+        "animal": "Cabra"
+      },
+      {
+        "idx": 317,
+        "milhar": "6045",
+        "dezena": 45,
+        "grupo": 12,
+        "animal": "Elefante"
+      },
+      {
+        "idx": 318,
+        "milhar": "0763",
+        "dezena": 63,
+        "grupo": 16,
+        "animal": "Leão"
+      },
+      {
+        "idx": 319,
+        "milhar": "9331",
+        "dezena": 31,
+        "grupo": 8,
+        "animal": "Camelo"
+      },
+      {
+        "idx": 320,
+        "milhar": "3529",
+        "dezena": 29,
+        "grupo": 8,
+        "animal": "Camelo"
+      },
+      {
+        "idx": 321,
+        "milhar": "1751",
+        "dezena": 51,
+        "grupo": 13,
+        "animal": "Galo"
+      },
+      {
+        "idx": 322,
+        "milhar": "7401",
+        "dezena": 1,
+        "grupo": 1,
+        "animal": "Avestruz"
+      },
+      {
+        "idx": 323,
+        "milhar": "9631",
+        "dezena": 31,
+        "grupo": 8,
+        "animal": "Camelo"
+      },
+      {
+        "idx": 324,
+        "milhar": "3357",
+        "dezena": 57,
+        "grupo": 15,
+        "animal": "Jacaré"
+      },
+      {
+        "idx": 325,
+        "milhar": "3725",
+        "dezena": 25,
+        "grupo": 7,
+        "animal": "Carneiro"
+      },
+      {
+        "idx": 326,
+        "milhar": "1691",
+        "dezena": 91,
+        "grupo": 23,
+        "animal": "Urso"
+      },
+      {
+        "idx": 327,
+        "milhar": "6792",
+        "dezena": 92,
+        "grupo": 23,
+        "animal": "Urso"
+      },
+      {
+        "idx": 328,
+        "milhar": "1534",
+        "dezena": 34,
+        "grupo": 9,
+        "animal": "Cobra"
+      },
+      {
+        "idx": 329,
+        "milhar": "7510",
+        "dezena": 10,
+        "grupo": 3,
+        "animal": "Burro"
+      },
+      {
+        "idx": 330,
+        "milhar": "7371",
+        "dezena": 71,
+        "grupo": 18,
+        "animal": "Porco"
+      },
+      {
+        "idx": 331,
+        "milhar": "8077",
+        "dezena": 77,
+        "grupo": 20,
+        "animal": "Peru"
+      },
+      {
+        "idx": 332,
+        "milhar": "8421",
+        "dezena": 21,
+        "grupo": 6,
+        "animal": "Cabra"
+      },
+      {
+        "idx": 333,
+        "milhar": "1778",
+        "dezena": 78,
+        "grupo": 20,
+        "animal": "Peru"
+      },
+      {
+        "idx": 334,
+        "milhar": "5530",
+        "dezena": 30,
+        "grupo": 8,
+        "animal": "Camelo"
+      },
+      {
+        "idx": 335,
+        "milhar": "3177",
+        "dezena": 77,
+        "grupo": 20,
+        "animal": "Peru"
+      },
+      {
+        "idx": 336,
+        "milhar": "4017",
+        "dezena": 17,
+        "grupo": 5,
+        "animal": "Cachorro"
+      },
+      {
+        "idx": 337,
+        "milhar": "7415",
+        "dezena": 15,
+        "grupo": 4,
+        "animal": "Borboleta"
+      },
+      {
+        "idx": 338,
+        "milhar": "8198",
+        "dezena": 98,
+        "grupo": 25,
+        "animal": "Vaca"
+      },
+      {
+        "idx": 339,
+        "milhar": "6237",
+        "dezena": 37,
+        "grupo": 10,
+        "animal": "Coelho"
+      },
+      {
+        "idx": 340,
+        "milhar": "8250",
+        "dezena": 50,
+        "grupo": 13,
+        "animal": "Galo"
+      },
+      {
+        "idx": 341,
+        "milhar": "7682",
+        "dezena": 82,
+        "grupo": 21,
+        "animal": "Touro"
+      },
+      {
+        "idx": 342,
+        "milhar": "0333",
+        "dezena": 33,
+        "grupo": 9,
+        "animal": "Cobra"
+      },
+      {
+        "idx": 343,
+        "milhar": "8687",
+        "dezena": 87,
+        "grupo": 22,
+        "animal": "Tigre"
+      },
+      {
+        "idx": 344,
+        "milhar": "1226",
+        "dezena": 26,
+        "grupo": 7,
+        "animal": "Carneiro"
+      },
+      {
+        "idx": 345,
+        "milhar": "9358",
+        "dezena": 58,
+        "grupo": 15,
+        "animal": "Jacaré"
+      },
+      {
+        "idx": 346,
+        "milhar": "8702",
+        "dezena": 2,
+        "grupo": 1,
+        "animal": "Avestruz"
+      },
+      {
+        "idx": 347,
+        "milhar": "8673",
+        "dezena": 73,
+        "grupo": 19,
+        "animal": "Pavão"
+      }
+    ],
+    "counts_dezena": {
+      "0": 3,
+      "1": 3,
+      "2": 3,
+      "3": 4,
+      "4": 3,
+      "5": 2,
+      "6": 5,
+      "7": 4,
+      "8": 3,
+      "9": 4,
+      "10": 4,
+      "11": 3,
+      "12": 0,
+      "13": 0,
+      "14": 1,
+      "15": 6,
+      "16": 2,
+      "17": 5,
+      "18": 1,
+      "19": 4,
+      "20": 1,
+      "21": 6,
+      "22": 2,
+      "23": 4,
+      "24": 5,
+      "25": 5,
+      "26": 2,
+      "27": 2,
+      "28": 1,
+      "29": 3,
+      "30": 8,
+      "31": 5,
+      "32": 1,
+      "33": 3,
+      "34": 7,
+      "35": 4,
+      "36": 2,
+      "37": 5,
+      "38": 3,
+      "39": 2,
+      "40": 5,
+      "41": 3,
+      "42": 7,
+      "43": 2,
+      "44": 1,
+      "45": 4,
+      "46": 1,
+      "47": 1,
+      "48": 6,
+      "49": 1,
+      "50": 4,
+      "51": 3,
+      "52": 5,
+      "53": 4,
+      "54": 2,
+      "55": 2,
+      "56": 4,
+      "57": 3,
+      "58": 3,
+      "59": 5,
+      "60": 8,
+      "61": 4,
+      "62": 6,
+      "63": 3,
+      "64": 1,
+      "65": 4,
+      "66": 4,
+      "67": 1,
+      "68": 6,
+      "69": 4,
+      "70": 3,
+      "71": 5,
+      "72": 0,
+      "73": 4,
+      "74": 2,
+      "75": 5,
+      "76": 6,
+      "77": 4,
+      "78": 4,
+      "79": 3,
+      "80": 6,
+      "81": 6,
+      "82": 6,
+      "83": 2,
+      "84": 2,
+      "85": 2,
+      "86": 1,
+      "87": 4,
+      "88": 3,
+      "89": 3,
+      "90": 3,
+      "91": 3,
+      "92": 3,
+      "93": 2,
+      "94": 7,
+      "95": 4,
+      "96": 5,
+      "97": 1,
+      "98": 3,
+      "99": 7
+    },
+    "counts_grupos": {
+      "1": 13,
+      "2": 14,
+      "3": 11,
+      "4": 9,
+      "5": 11,
+      "6": 17,
+      "7": 10,
+      "8": 17,
+      "9": 16,
+      "10": 15,
+      "11": 13,
+      "12": 12,
+      "13": 13,
+      "14": 12,
+      "15": 19,
+      "16": 14,
+      "17": 15,
+      "18": 12,
+      "19": 17,
+      "20": 17,
+      "21": 16,
+      "22": 10,
+      "23": 12,
+      "24": 18,
+      "25": 14
+    },
+    "chi2": {
+      "stat": 96.51585014409223,
+      "p": 0.5519300279210826
+    },
+    "predictive_probs": [
+      0.008948545861297539,
+      0.008948545861297539,
+      0.008948545861297539,
+      0.011185682326621925,
+      0.008948545861297539,
+      0.006711409395973154,
+      0.013422818791946308,
+      0.011185682326621925,
+      0.008948545861297539,
+      0.011185682326621925,
+      0.011185682326621925,
+      0.008948545861297539,
+      0.0022371364653243847,
+      0.0022371364653243847,
+      0.0044742729306487695,
+      0.015659955257270694,
+      0.006711409395973154,
+      0.013422818791946308,
+      0.0044742729306487695,
+      0.011185682326621925,
+      0.0044742729306487695,
+      0.015659955257270694,
+      0.006711409395973154,
+      0.011185682326621925,
+      0.013422818791946308,
+      0.013422818791946308,
+      0.006711409395973154,
+      0.006711409395973154,
+      0.0044742729306487695,
+      0.008948545861297539,
+      0.020134228187919462,
+      0.013422818791946308,
+      0.0044742729306487695,
+      0.008948545861297539,
+      0.017897091722595078,
+      0.011185682326621925,
+      0.006711409395973154,
+      0.013422818791946308,
+      0.008948545861297539,
+      0.006711409395973154,
+      0.013422818791946308,
+      0.008948545861297539,
+      0.017897091722595078,
+      0.006711409395973154,
+      0.0044742729306487695,
+      0.011185682326621925,
+      0.0044742729306487695,
+      0.0044742729306487695,
+      0.015659955257270694,
+      0.0044742729306487695,
+      0.011185682326621925,
+      0.008948545861297539,
+      0.013422818791946308,
+      0.011185682326621925,
+      0.006711409395973154,
+      0.006711409395973154,
+      0.011185682326621925,
+      0.008948545861297539,
+      0.008948545861297539,
+      0.013422818791946308,
+      0.020134228187919462,
+      0.011185682326621925,
+      0.015659955257270694,
+      0.008948545861297539,
+      0.0044742729306487695,
+      0.011185682326621925,
+      0.011185682326621925,
+      0.0044742729306487695,
+      0.015659955257270694,
+      0.011185682326621925,
+      0.008948545861297539,
+      0.013422818791946308,
+      0.0022371364653243847,
+      0.011185682326621925,
+      0.006711409395973154,
+      0.013422818791946308,
+      0.015659955257270694,
+      0.011185682326621925,
+      0.011185682326621925,
+      0.008948545861297539,
+      0.015659955257270694,
+      0.015659955257270694,
+      0.015659955257270694,
+      0.006711409395973154,
+      0.006711409395973154,
+      0.006711409395973154,
+      0.0044742729306487695,
+      0.011185682326621925,
+      0.008948545861297539,
+      0.008948545861297539,
+      0.008948545861297539,
+      0.008948545861297539,
+      0.008948545861297539,
+      0.006711409395973154,
+      0.017897091722595078,
+      0.011185682326621925,
+      0.013422818791946308,
+      0.0044742729306487695,
+      0.008948545861297539,
+      0.017897091722595078
+    ]
+  }
+}
