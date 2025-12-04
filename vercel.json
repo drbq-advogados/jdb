@@ -1,0 +1,17 @@
+{
+  "name": "jdb-landing",
+  "version": 2,
+  "buildCommand": "python generate_landing_data.py",
+  "outputDirectory": "web",
+  "public": true,
+  "github": {
+    "enabled": true,
+    "autoDeployment": true
+  },
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "/$1"
+    }
+  ]
+}
