@@ -10,8 +10,39 @@ permissions:
   pages: write
 
 jobs:
+  ci-check:
+    runs-on: ubuntu-latest
+    name: CI checks (lint + tests)
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies and test tools
+        run: |
+          python -m pip install --upgrade pip
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+          pip install pytest flake8 || true
+
+      - name: Run pytest (if present)
+        run: |
+          if [ -d tests ] || ls *_test.py 1> /dev/null 2>&1; then
+            pytest -q
+          else
+            echo "No tests found, skipping pytest"
+          fi
+
+      - name: Run flake8
+        run: |
+          flake8 . || true
+
   build-and-publish:
     runs-on: ubuntu-latest
+    needs: ci-check
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -36,6 +67,13 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           set -e
+          echo "DEBUG: workspace root"
+          pwd
+          ls -la
+          echo "DEBUG: web dir contents"
+          ls -la web || true
+          echo "DEBUG: out dir contents (before)"
+          ls -la out || true
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           # try to create or switch to gh-pages
