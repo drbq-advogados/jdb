@@ -59,6 +59,12 @@ jobs:
           python -m pip install --upgrade pip
           if [ -f requirements.txt ]; then pip install -r requirements.txt; else pip install pandas numpy scipy; fi
 
+      - name: Regenerate cache (optional)
+        run: |
+          set -e
+          echo "Attempting to regenerate cache_results.json (may be skipped on failures)"
+          python regen_cache.py || echo "regen_cache.py failed — continuing with existing cache"
+
       - name: Generate landing data
         run: python generate_landing_data.py
 
