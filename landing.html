@@ -1,0 +1,145 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>JDB — Análise de Probabilidades</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="hero">
+    <div class="container">
+      <h1>🎲 JDB — Análise de Probabilidades</h1>
+      <p class="lead">Resultados completos com rankings, probabilidades e estratégias de jogo.</p>
+      <div class="meta">
+        <span id="meta_sorteios"></span>
+        <span id="meta_data"></span>
+        <span id="meta_generated"></span>
+      </div>
+    </div>
+  </header>
+
+  <main class="container">
+    <!-- Resumo Estatístico -->
+    <section class="card" id="section_resumo">
+      <h2>📊 Resumo Estatístico</h2>
+      <div id="resumo_grid" class="stats-grid">
+        <div class="stat-item">
+          <span class="stat-label">Total de Sorteios</span>
+          <span class="stat-value" id="resumo_total">—</span>
+        </div>
+        <div class="stat-item">
+          <span class="stat-label">Dezena Mais Sorteada</span>
+          <span class="stat-value" id="resumo_mais_dezena">—</span>
+          <span class="stat-sub" id="resumo_mais_dezena_freq"></span>
+        </div>
+        <div class="stat-item">
+          <span class="stat-label">Dezena Menos Sorteada</span>
+          <span class="stat-value" id="resumo_menos_dezena">—</span>
+          <span class="stat-sub" id="resumo_menos_dezena_freq"></span>
+        </div>
+        <div class="stat-item">
+          <span class="stat-label">Grupo Mais Sorteado</span>
+          <span class="stat-value" id="resumo_mais_grupo">—</span>
+          <span class="stat-sub" id="resumo_mais_grupo_freq"></span>
+        </div>
+        <div class="stat-item">
+          <span class="stat-label">Grupo Menos Sorteado</span>
+          <span class="stat-value" id="resumo_menos_grupo">—</span>
+          <span class="stat-sub" id="resumo_menos_grupo_freq"></span>
+        </div>
+        <div class="stat-item">
+          <span class="stat-label">Chi-square Test</span>
+          <span class="stat-value" id="resumo_chi2">—</span>
+          <span class="stat-sub" id="resumo_chi2_result"></span>
+        </div>
+      </div>
+    </section>
+
+    <!-- Ranking de Dezenas -->
+    <section class="card" id="section_ranking">
+      <h2>📈 Ranking de Dezenas (100 Números)</h2>
+      <div class="filter-box">
+        <input type="text" id="ranking_search" placeholder="Buscar dezena (ex: 01, 30)..." class="search-input" />
+        <select id="ranking_sort" class="sort-select">
+          <option value="freq_desc">Mais Sorteadas</option>
+          <option value="freq_asc">Menos Sorteadas</option>
+          <option value="prob_desc">Maior Probabilidade</option>
+        </select>
+      </div>
+      <table id="ranking_table" class="ranking-table">
+        <thead>
+          <tr>
+            <th>Rank</th>
+            <th>Dezena</th>
+            <th>Frequência</th>
+            <th>Probabilidade</th>
+            <th>Percentual</th>
+          </tr>
+        </thead>
+        <tbody id="ranking_tbody"></tbody>
+      </table>
+    </section>
+
+    <!-- Top 10 e Bottom 5 -->
+    <section class="card" id="section_extremos">
+      <h2>🏆 Top 10 e Bottom 5</h2>
+      <div class="two-col">
+        <div>
+          <h3>Top 10 Mais Sorteadas</h3>
+          <table class="small-table">
+            <thead><tr><th>Dezena</th><th>Freq</th><th>%</th></tr></thead>
+            <tbody id="top10_tbody"></tbody>
+          </table>
+        </div>
+        <div>
+          <h3>Bottom 5 Menos Sorteadas</h3>
+          <table class="small-table">
+            <thead><tr><th>Dezena</th><th>Freq</th><th>%</th></tr></thead>
+            <tbody id="bottom5_tbody"></tbody>
+          </table>
+        </div>
+      </div>
+    </section>
+
+    <!-- Distribuição por Grupo (Animais) -->
+    <section class="card" id="section_grupos">
+      <h2>🦁 Distribuição por Grupo (Animais)</h2>
+      <table id="grupos_table" class="grupos-table">
+        <thead>
+          <tr>
+            <th>Grupo</th>
+            <th>Animal</th>
+            <th>Frequência</th>
+            <th>Probabilidade</th>
+            <th>Percentual</th>
+          </tr>
+        </thead>
+        <tbody id="grupos_tbody"></tbody>
+      </table>
+    </section>
+
+    <!-- Estratégias de Jogo -->
+    <section class="card" id="section_recomendacoes">
+      <h2>🎯 Estratégias de Jogo Recomendadas</h2>
+      <div id="recomendacoes_container" class="recom-grid"></div>
+    </section>
+
+    <!-- Exportar -->
+    <section class="card" id="section_export">
+      <h2>💾 Exportar / Regenerar</h2>
+      <p>
+        <button id="export_json" class="btn">Baixar Dados (JSON)</button>
+        <button id="refresh_data" class="btn btn-secondary">Regenerar Dados</button>
+      </p>
+    </section>
+
+    <footer class="card small">
+      <p>Gerado: <span id="footer_generated_at">—</span></p>
+    </footer>
+  </main>
+
+  <script src="landing_data.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
